@@ -11,14 +11,17 @@
 * header {
     height: 30vh;
     display: flex;
+    background-color: aquamarine;
 }
 
 * main {
     height: 40vh;
     display: flex;
+    background-color: firebrick;
 }
 
 * footer {
     height: 30vh;
     display: flex;
+    background-color: azure;
 }
