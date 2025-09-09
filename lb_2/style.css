@@ -5,17 +5,17 @@
 }
 
 * body {
-
+    height: 100vh;
 }
 
 * header {
-
+    height: 30vh;
 }
 
 * main {
-
+    height: 40vh;
 }
 
 * footer {
-    
+    height: 30vh;
 }
