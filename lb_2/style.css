@@ -10,12 +10,15 @@
 
 * header {
     height: 30vh;
+    display: flex;
 }
 
 * main {
     height: 40vh;
+    display: flex;
 }
 
 * footer {
     height: 30vh;
+    display: flex;
 }
