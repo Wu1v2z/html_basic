@@ -8,20 +8,27 @@
     height: 100vh;
 }
 
-* header {
-    height: 30vh;
-    display: flex;
-    background-color: aquamarine;
-}
+.header {
+      height: 30vh;
+      background-color: lightblue;
+      padding-left: 20px;  
+      line-height: 30vh;   
+      text-align: left;    
+    }
 
-* main {
+.main {
     height: 40vh;
-    display: flex;
-    background-color: firebrick;
-}
+    background-color: lightgray;
+    text-align: center;  
+    line-height: 40vh;   
+    }
 
-* footer {
+.footer {
     height: 30vh;
-    display: flex;
-    background-color: azure;
-}
+    background-color: lightgreen;
+    padding-right: 20px; 
+    line-height: 30vh;   
+    text-align: right;   
+    }
+
+ 
